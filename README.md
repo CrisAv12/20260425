@@ -1,4 +1,3 @@
-# 20260425
 # Prueba Quarkus
 
 La aplicación envía y consume datos con el siguiente endpoint (considerando que el servicio se ejecuta en el puerto 8080 y Kafka se ejecuta en 9092):
